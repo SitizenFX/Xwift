@@ -7,7 +7,7 @@
 
 | **OS** | **Status** |
 |---:|:---:|
-| macOS        | [![macOS Universal Build Status](https://ci.swift.org/job/oss-swift-package-macos/lastCompletedBuild/badge/icon?subject=universal)](https://ci.swift.org/job/oss-swift-package-macos)|
+| macOS        | [![macOS Universal Build Status](https://ci.swift.org/job/oss-xwift-package-macos/lastCompletedBuild/badge/icon?subject=universal)](https://ci.swift.org/job/oss-swift-package-macos)|
 | Ubuntu 20.04 | [![Ubuntu 20.04 x86_64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04/lastCompletedBuild/badge/icon?subject=x86_64)](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04) [![Ubuntu 20.04 aarch64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04-aarch64/lastCompletedBuild/badge/icon?subject=aarch64)](https://ci.swift.org/job/oss-swift-package-ubuntu-20_04-aarch64)|
 | Ubuntu 22.04 | [![Ubuntu 22.04 x86_64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-22_04/lastCompletedBuild/badge/icon?subject=x86_64)](https://ci.swift.org/job/oss-swift-package-ubuntu-22_04) [![Ubuntu 22.04 aarch64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-22_04-aarch64/lastCompletedBuild/badge/icon?subject=aarch64)](https://ci.swift.org/job/oss-swift-package-ubuntu-22_04-aarch64)|
 | Ubuntu 24.04 | [![Ubuntu 24.04 x86_64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-24_04/lastCompletedBuild/badge/icon?subject=x86_64)](https://ci.swift.org/job/oss-swift-package-ubuntu-24_04) [![Ubuntu 24.04 aarch64 Build Status](https://ci.swift.org/job/oss-swift-package-ubuntu-24_04-aarch64/lastCompletedBuild/badge/icon?subject=aarch64)](https://ci.swift.org/job/oss-swift-package-ubuntu-24_04-aarch64)|
